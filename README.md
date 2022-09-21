@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonium85
 - 👀 I’m interested in Product Management, Programming, Data Analysis
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on data products
+- 💞️ I’m looking to collaborate on Data & IA products
 - 📫 How to reach me anhton.nguyen@gmail.com
 
 <!---
